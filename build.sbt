@@ -1,6 +1,6 @@
 name := "sbt-coveralls"
 
-organization := "org.scoverage"
+organization := "org.hammerlab"
 
 scalaVersion := "2.10.6"
 
